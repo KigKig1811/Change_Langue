@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GFG | Change App Language</string>
+    <string name="selected_language">Tieng Viet</string>
+    <string name="language">Xin chao, The gioi.</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#009BEE</color>
+    <color name="colorPrimaryNew">#386fd6</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBackground">#F8F8F8</color>
+    <color name="colorHint">#A5A5A5</color>
+    <color name="colorStrokeEditText">#D6D6D6</color>
+    <color name="colorText">#222222</color>
+    <color name="colorBlood">#F20000</color>
+    <color name="colorSecondProgress">#CCEBEBEB</color>
+    <color name="colorBlueMain">#009BEE</color>
+    <color name="colorBlueBold">#007AD8</color>
+    <color name="colorBlueBorder">#00B1FF</color>
+    <color name="colorDelayStatus">#FFB300</color>
+    <color name="colorRefusedStatus">#F20000</color>
+    <color name="colorDoneStatus">#28AF00</color>
+    <color name="colorTextSemiBold">#2E2E2E</color>
+    <color name="colorStarRating">#FFBA00</color>
+    <color name="colorHighLight">#2AB400</color>
+    <color name="colorHighLight2">#2EC400</color>
+    <color name="colorLandingPage">#E0FFF3</color>
+    <color name="colorError">#D32C2C</color>
+    <color name="colorEditTextFocus">#00D3ED</color>
+    <color name="colorEditTextError">#C60000</color>
+    <color name="colorBackgroundLandingPage">#CEF4FF</color>
+    <color name="colorHeader">#F8FEFF</color>
+    <color name="colorBGDash">#F5F5F5</color>
+    <color name="colorNotice">#BFECFF</color>
+    <color name="colorXamNhat">#555555</color>
+    <color name="colorGrey">#F2F2F2</color>
+    <color name="enableColorCheckBox">#F5F6FA</color>
+    <color name="colorErrorQR">#FF7C17</color>
+</resources>
